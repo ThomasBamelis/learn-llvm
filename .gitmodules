@@ -1,0 +1,4 @@
+[submodule "llvm-project"]
+	path = llvm-project
+	url = git@github.com:ThomasBamelis/llvm-project.git
+	branch = llvmorg-12
