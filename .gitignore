@@ -33,3 +33,6 @@
 
 # Build dir
 /build
+/install
+/build-tinylang
+/install-tinylang
